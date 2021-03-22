@@ -44,8 +44,15 @@
 	
 	source  ~/.bashrc
 
-
- 3.Install postgres database 
+3.Unit Test
+   Go to server folder 
+     path - Eduvanz/src/server 
+     please run below comments 
+      go test
+     OutPut should run with out error  
+       
+	
+5..Install postgres database 
  	3.1 Install postgres database 
  	3.2 Import eduvanz database 
  		 sql file present in the pkg folder
