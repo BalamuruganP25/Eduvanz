@@ -2,7 +2,6 @@
 
  OS - Ubuntu  
 1.Golang version go1.15 required
-
 2.Before Run program please follow the steps
 2.1.install golang  (if your already install golang please skip the step)
     Note  - User - root
